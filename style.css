@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    color: #626262;
+}
+
+.first_article{
+    font-family: "Ubuntu", sans-serif;
+    font-weight:300;
+    font-size: 14px;
+    line-height:100%;
+    letter-spacing:0%;
+    color: #626262;
+}
+
+.first_title{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #626262;
+}
+
+
+.first_tun{
+    font-family: "Playfair Display", serif;
+    font-weight:400;
+    font-size: 14px;
+    line-height:100%;
+    letter-spacing:0%;
+    color: #626262;
+}
+
+
